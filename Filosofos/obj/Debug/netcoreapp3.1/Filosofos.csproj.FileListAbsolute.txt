@@ -1,0 +1,17 @@
+C:\Users\anaat\source\repos\Filosofos\Filosofos\obj\Debug\netcoreapp3.1\Filosofos.csproj.AssemblyReference.cache
+C:\Users\anaat\source\repos\Filosofos\Filosofos\obj\Debug\netcoreapp3.1\Filosofos.Form1.resources
+C:\Users\anaat\source\repos\Filosofos\Filosofos\obj\Debug\netcoreapp3.1\Filosofos.Properties.Resources.resources
+C:\Users\anaat\source\repos\Filosofos\Filosofos\obj\Debug\netcoreapp3.1\Filosofos.csproj.GenerateResource.cache
+C:\Users\anaat\source\repos\Filosofos\Filosofos\obj\Debug\netcoreapp3.1\Filosofos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaat\source\repos\Filosofos\Filosofos\obj\Debug\netcoreapp3.1\Filosofos.AssemblyInfoInputs.cache
+C:\Users\anaat\source\repos\Filosofos\Filosofos\obj\Debug\netcoreapp3.1\Filosofos.AssemblyInfo.cs
+C:\Users\anaat\source\repos\Filosofos\Filosofos\obj\Debug\netcoreapp3.1\Filosofos.csproj.CoreCompileInputs.cache
+C:\Users\anaat\source\repos\Filosofos\Filosofos\bin\Debug\netcoreapp3.1\Filosofos.exe
+C:\Users\anaat\source\repos\Filosofos\Filosofos\bin\Debug\netcoreapp3.1\Filosofos.deps.json
+C:\Users\anaat\source\repos\Filosofos\Filosofos\bin\Debug\netcoreapp3.1\Filosofos.runtimeconfig.json
+C:\Users\anaat\source\repos\Filosofos\Filosofos\bin\Debug\netcoreapp3.1\Filosofos.runtimeconfig.dev.json
+C:\Users\anaat\source\repos\Filosofos\Filosofos\bin\Debug\netcoreapp3.1\Filosofos.dll
+C:\Users\anaat\source\repos\Filosofos\Filosofos\bin\Debug\netcoreapp3.1\Filosofos.pdb
+C:\Users\anaat\source\repos\Filosofos\Filosofos\obj\Debug\netcoreapp3.1\Filosofos.dll
+C:\Users\anaat\source\repos\Filosofos\Filosofos\obj\Debug\netcoreapp3.1\Filosofos.pdb
+C:\Users\anaat\source\repos\Filosofos\Filosofos\obj\Debug\netcoreapp3.1\Filosofos.genruntimeconfig.cache
